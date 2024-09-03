@@ -7,7 +7,7 @@ public class Geeks {
         int a = 62;
         int b = 18;
         // It will return the sum of two arguments.
-        System.out.println("The sum is"
+        System.out.println("The is"
                            + Integer.sum(a, b));
     }
 }
